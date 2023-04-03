@@ -4,7 +4,7 @@
   "private_key_id": "3f9***",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBA*************\n-----END PRIVATE KEY-----\n",
   "client_email": "bigquery@bigquery-database-3***.iam.gserviceaccount.com",
-  "client_id": "112474756230276792313",
+  "client_id": "112**",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
